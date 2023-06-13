@@ -1,4 +1,4 @@
-Hi my name is Tim.
+Hi my name is Tim
 
 I started programming in June 2023...
 
@@ -12,4 +12,4 @@ But thats the future and currently I have no knowledge at all
 
 I will mainly use Github to keep track of my progress and to show of my work to friends
 
-Currently learning: JavaScript and Blender
+Currently learning:  JavaScript and Blender
