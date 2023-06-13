@@ -4,7 +4,7 @@ I started programming in June 2023...
 
 So I am an absolute beginner
 
-In October 2023 i will start my Bachelor in Computer Science in the university Hoschule Bonn-Rein-Sieg
+In October 2023 I will start my Bachelor in Computer Science in the university Hochschule Bonn-Rein-Sieg
 
 In the future I want to become a full stack developer who can also use Blender, design simple things and create his own games
 
