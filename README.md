@@ -14,4 +14,3 @@ I will mainly use Github to keep track of my progress and to show off my work to
 
 Currently learning:  JavaScript and Blender
 
-api/top-langs?username=Gralite21
