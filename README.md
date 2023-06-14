@@ -13,3 +13,5 @@ But thats the future and currently I have no knowledge at all
 I will mainly use Github to keep track of my progress and to show off my work to friends
 
 Currently learning:  JavaScript and Blender
+
+api/top-langs?username=Gralite21
